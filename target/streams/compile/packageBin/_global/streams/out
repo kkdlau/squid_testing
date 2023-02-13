@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/danny/program/squid_testing/target/scala-2.12/squid_testing_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/danny/program/squid_testing/target/scala-2.12/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IR$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/danny/program/squid_testing/target/scala-2.12/classes/IR$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IR.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/danny/program/squid_testing/target/scala-2.12/classes/IR.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/danny/program/squid_testing/target/scala-2.12/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
